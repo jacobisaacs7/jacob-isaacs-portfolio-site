@@ -1,0 +1,14 @@
+1. create the folder
+2. run git init (to initialize an empty repo in the folder)
+3. create or copy your project files into the folder
+4. git add . (to stage the first commit)
+5. git add *
+6. git commit -m "Initial commit" (to create the first commit with a message)
+7. git remote add origin <repo url> (to add a remote repository where you want to push your code you can use a url from a hosting services like github, bitbucket or gitlab or from your own server)
+8. git push -u origin main (to push your code to the repo and set it as upstream branch from your local main branch)
+
+git config --global user.email "jacobisaacs77@gmail.com"
+git config --global user.name "jacobisaacs7"
+
+<repo url>
+https://github.com/jacobisaacs7/jacob-isaacs-portfolio-site.git

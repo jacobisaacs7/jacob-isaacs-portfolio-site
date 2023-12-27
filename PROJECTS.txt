@@ -1,0 +1,26 @@
+
+
+
+SECURITY PROJECTS
+=====================
+
+EDM Encryption Data Management Service
+-key management service that ensures all hyper sensitive data is kept secure
+-KEK Key Encryption Key & DEK Decryption Encryption Key
+-KEK is Split into halves, 1 is with each half is split among each key custodian
+-no method way to see encrypted data from public facing client
+-quarterly key rotation/ DEK/ or upon request rotate keys
+-yearly key rotation/ KEK
+
+Multilayered Connection to Hyper Sensitive Third Partys such as banks
+-triple layer encryption
+-Signing Certificate
+-Encryption Certificate
+-SSL Certificate
+
+PGP Encrypt / Decrypt
+-pretty good privacy
+
+OAuth2.0
+
+User Authentication

@@ -1,0 +1,59 @@
+Metrics
+# of Companies
+# of Jobs
+# of Workflow projects for each company
+# of Projects
+# of Skills
+
+Project Types
+-Operations Research & Business Analytics
+
+Current Training
+-IBM Full Stack Professional Developer Certificate
+
+My Work Life Story
+-High School
+ () Drafting & Art
+-Summer Job Extravaganza
+-Degree in Math at VCU
+ () work on MDVRP with Professor
+ () Serving tables & restaurant work
+-VMFA Museum Work & Artist
+ () Mentor
+ () LeashTime Recommendation System/ MDVRP
+ () Webscraping for Followers/ Nectar Sunglasses/ Pet Drug Data
+ () Experimental Projects
+-Masters in OR 
+ () Mentor #2
+ () Sonjara Junior Web Developer
+ () Php/ Fakoli framework
+ () Stripe Payment API/ Shopping Carts
+ () USAID Government / RFP Writing
+ () AFDC Alliance France DC
+-US Air Force & Artizly
+ () Develop New Test System Capability for EW Electronic Warfare
+ () Quarterly/ Yearly Analytics for EW Readiness
+ () Training on Design of Experiment DOE
+ () Training on Security
+-Aria Systems & Garden Life
+ () Neighbor growing food & flowers
+ () New Focus on Health & Growing
+ () Standard Practices with JIRA
+
+Blog Posts
+-Work Log
+-Garden Log
+-Art Log
+-Idea Feed
+//////////////
+
+Goals
+
+Skills
+
+Education
+
+Certificates
+
+////////
+

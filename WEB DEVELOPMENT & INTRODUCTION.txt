@@ -1,0 +1,17 @@
+About Myself & My Background
+-----
+I am currently gainfully employed as a Workflow Engineer working on the Decisions Platform for a Billing Company, I have previously worked as an Operations Analyst, and I have a Masters in Operations Research.
+
+What Interests me about Web Development
+----
+My interest in web development began when I met a mentor who helped me discover the inter workings of the internet through working on projects such as web scraping, routing, and data analytics.
+My interest in development then blossomed into a career working in various industries using my coding & logical thinking skills.
+
+Why I began taking this course
+-----
+I'm taking this course for enjoyment as well as to make myself more marketable.
+
+How I wish to apply my newfound knowledge
+---
+I plan to apply this knowledge in my day to day job to help solve complicated problems
+I plan to use this knowledge to build my own website as a tracker of my past and future development projects
